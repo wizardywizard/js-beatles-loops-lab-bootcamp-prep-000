@@ -11,13 +11,17 @@ function johnLennonFacts(array){
   }return array
 }
 function iLoveTheBeatles(n){
-  var last=[]
+ var last=[]
   var i = 0
-   function incrementVariable() {
-  i = i + 1;
-  return i;
-}
-do {
-  console.log("i love the beatles!");
-} while (incrementVariable() < n);
-}
+   if (num < 15){
+     last.push("I love the Beatles!")
+   }
+   else {
+  do { i++ 
+    console.log(last.push("I love the Beatles!"))
+  }
+  while (i < num)
+     
+   }
+  return last.push("I love the Beatles!")
+  }

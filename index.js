@@ -20,7 +20,7 @@ function iLoveTheBeatles(num){
    }
    else {
   do { i++ 
-    console.log(last.push("I love the Beatles!"))
+  last.push("I love the Beatles!")
   }
   while (i < num)
    }return last

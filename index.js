@@ -10,7 +10,7 @@ function johnLennonFacts(array){
     array.push(`${array}!!!`)
   }return array
 }
-function iLoveTheBeatles(n){
+function iLoveTheBeatles(num){
  var last=[]
   var i = 0
    if (num < 15){

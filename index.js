@@ -13,7 +13,7 @@ function johnLennonFacts(array){
 function iLoveTheBeatles(num){
  var last=[]
   var i = 0
-   if (num > 15){
+   if (num > 16){
      last.push("I love the Beatles!")
    }
    else {

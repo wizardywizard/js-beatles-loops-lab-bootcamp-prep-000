@@ -22,5 +22,4 @@ function iLoveTheBeatles(num){
   }
   while (i < num)
    }
-  return last.push("I love the Beatles!")
   }

@@ -8,7 +8,7 @@ var array=[]
 function johnLennonFacts(array){
   var i=0
   while(i<array.length){
-    array.push(`${array}!!!`)
+    (`${array[i]}!!!`)
     i+=1
   }return array
 }

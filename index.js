@@ -17,7 +17,6 @@ function iLoveTheBeatles(n){
   i = i + 1;
   return i;
 }
- 
 do {
   console.log("i love the beatles!");
 } while (incrementVariable() < n);
